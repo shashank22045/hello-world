@@ -5,10 +5,10 @@
     <hr>
   </div>
   <div class="container signin">
-    <p>Already have an account? <a href="#">Sign in</a>.</p>
+    <p>Already registered <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thanks for joining Grass devops class  </h1>
+   <h1>  class  </h1>
 
   
 </form>
