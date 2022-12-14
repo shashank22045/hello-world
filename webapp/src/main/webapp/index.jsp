@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>User register on Grass Devops Class</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Enter student  Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
@@ -14,6 +14,10 @@
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    <br>
+    
+    <label for="address "><b>Enter address</b></label>
+    <input type="text" placeholder="Enter address" name="address" id="address" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
