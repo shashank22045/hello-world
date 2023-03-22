@@ -42,7 +42,8 @@ now application is accessible on port 8090. but tomcat application doesnt allow 
 
 #search for context.xml
 find / -name context.xml
-above command gives 3 context.xml files. comment () Value ClassName field on files which are under webapp directory. After that restart tomcat services to effect these changes. At the time of writing this lecture below 2 files are updated.
+above command gives 3 context.xml files. comment () Value ClassName field on files which are under webapp directory. 
+  After that restart tomcat services to effect these changes.
 /opt/tomcat/webapps/host-manager/META-INF/context.xml
 /opt/tomcat/webapps/manager/META-INF/context.xml
 
